@@ -1,0 +1,10 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="Estilosvapes.css">
+</head>
+<body>
+<h1> <img src="./img/Titulo1.gif" alt=""></h1>
+<h1> <img src="./img/Texto1.png" alt=""></h1>
+<h1> <img src="./img/Subtitulo1.png" alt=""></h1>
+<a href="Vapedesechable.html"><img src="Vapedesechable.jpg" width="40%"></a>
+<a href="Podmods.html"><img src="Podmods.jpg" width="40%"></a>
